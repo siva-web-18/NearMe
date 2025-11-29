@@ -51,7 +51,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-29 085609.png>)
+![Uploading Screenshot 2025-11-29 131548.png…]()
+
 
 
 
